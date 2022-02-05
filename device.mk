@@ -491,10 +491,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_TARGET_VNDK_VERSION := 29
 
 # VR
-PRODUCT_PACKAGES += \
-    android.hardware.vr@1.0-impl \
-    android.hardware.vr@1.0-service \
-    vr.sdm845
+#PRODUCT_PACKAGES += \
+#    android.hardware.vr@1.0-impl \
+#    android.hardware.vr@1.0-service \
+#    vr.sdm845
 
 # WiFi
 PRODUCT_PACKAGES += \
