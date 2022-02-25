@@ -42,6 +42,7 @@ PRODUCT_NAME := spark_Z01R
 
 # ArrowOS additions
 DEVICE_MAINTAINER := Bubun
+TARGET_FACE_UNLOCK_SUPPORTED := true
 
 PRODUCT_GMS_CLIENTID_BASE := android-asus
 
